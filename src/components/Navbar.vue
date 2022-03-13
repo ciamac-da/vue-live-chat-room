@@ -34,9 +34,11 @@ nav p.email {
 }
 button {
     cursor: pointer;
+    transition: 0.88s;
 }
 button:hover {
     color: #4a9e5d;
     background: #fff;
+    box-shadow: 1px 1px 5px 5px #4a9e5d;
 }
 </style>
