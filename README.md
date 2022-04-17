@@ -1,16 +1,15 @@
 # vue-live-chat-room
 
-## Deployed Version
+## Deployed Version here
 ```
 https://vue-chat-room-46d74.web.app/
 ```
 
 ## Project Images
-```
 ![](src/assets/1.jpg)
 ![](src/assets/2.jpg)
 ![](src/assets/3.jpg)
-```
+
 
 ## Project setup
 ```
